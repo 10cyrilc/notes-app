@@ -11,6 +11,11 @@ Features
 *   Set reminders for notes
 *   Dark mode for better reading capability
 
+Demo
+---------------
+
+![](https://github.com/10cyrilc/notes-app/tree/main/.screens/screen.gif)
+
 Getting Started
 ---------------
 
